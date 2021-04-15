@@ -15,3 +15,8 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 URL: https://github.com/tjpalanca/tjart
 BugReports: https://github.com/tjpalanca/tjart/issues
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Imports: 
+    r2d3
