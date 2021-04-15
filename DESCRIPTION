@@ -1,0 +1,15 @@
+Package: tjart
+Title: TJ's Generative Art
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Troy James",
+           family = "Palanca",
+           role = c("aut", "cre"),
+           email = "mail@tjpalanca.com",
+           comment = c(ORCID = "0000-0002-0610-9213"))
+Description: TJ's stumblings in digital and generative art.
+License: CC BY 4.0
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
