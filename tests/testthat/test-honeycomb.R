@@ -1,3 +1,3 @@
 test_that("honeycomb works", {
-  expect_is(honeycomb(), "r2d3")
+  expect_s3_class(honeycomb(), "r2d3")
 })
